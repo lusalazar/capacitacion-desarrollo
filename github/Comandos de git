@@ -8,3 +8,8 @@ git commit -m ------> permite actualizar el estatus con el repo y un mensaje par
 git push -----> actualiza nuestro repo con github donde quedaran guardados los cambios en la nube
 
 git clone "http:\\git.repositorio.com" ----> nos permite clonar el repo en nuestro equipo 
+
+
+Esta es una prueba para chequear que funciona bien el branch
+
+Esta es otra prueba ;)
