@@ -1,3 +1,8 @@
 Comandos de git 
 
-git status 
+git init -------> nos permite inicializar un repositorio 
+git status -------> nos permite ver el estado de un repositorio 
+git add --------> nos permite agregar el estatus en el repositorio 
+git commit -m ------> permite actualizar el estatus con el repo y un mensaje para saber que accion realizamos 
+
+git push -----> actualiza nuestro repo con github donde quedaran guardados los cambios en la nube
