@@ -6,3 +6,5 @@ git add --------> nos permite agregar el estatus en el repositorio
 git commit -m ------> permite actualizar el estatus con el repo y un mensaje para saber que accion realizamos 
 
 git push -----> actualiza nuestro repo con github donde quedaran guardados los cambios en la nube
+
+git clone "http:\\git.repositorio.com" ----> nos permite clonar el repo en nuestro equipo 
