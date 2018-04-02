@@ -116,4 +116,186 @@ Ventaja : darle mas sentido y logica a lo que hacemos, se pareces mas a la reali
 18) Ventajas de la programación orientada a objetos
 Fortaleza: Reusabilidad, Jerarquias, Mantenimiento, se puede combinar con otros paradigmas 
 
+19) Paradigma de programación funcional
+
+Tiene una nueva forma de abordar los problemas 
+Las bases vienen del calculo Lambda
+Fuerte base de funciones matematicas
+
+Lenguajes de programacion Funcional
+Erlang
+Scala
+Haskell
+
+Lenguajes que soportan la programacion Funcional 
+Python
+Java
+PHP
+
+Dentro de la PF las variables no tienen estados por lo tanto nos se pueden realizar cambios son inmutables
+
+Los programas se estructuran componiendo expresiones que seran evaluadas como las funciones 
+
+Los ciclos no existen (Ejemplo: FOR, WHILE , DO WHILE)
+
+Principios: 
+La conversion:
+La reduccion:
+
+En el habiente de ejecucion asocia valores con nombres 
+
+el valor de una expresion solo depende su sus subexpresiones (si las tiene
+)
+Tambien la semantica Limpia es clave 
+
+las funciones son valores de primera clase tienen la misma jerarquia que cualquier otro valor 
+
+Las funciones puede ser el valor  de una expresion y se pueden pasar como una estructura de datos o como un argumento 
+
+20) Paradigma de programación lógico
+Subconjunto de calculos de predicados
+Se basa en la relacion entre elementos
+Hace referencia al uso de hechos y relaciones para representar la informacion 
+Las consultas son parte clave de la PL
+
+El papel del programador en la PL es el de proporcionar las reglas y los hechos 
+
+El lenguaje solo se encarga de hacer las deducciones para dar respuestas a las consultas 
+
+El predicado especifica la relacion que existen entre los argumentos del mismo 
+
+El numero de argumentos a los que se les aplica el predicado se los denomina ARIDAD
+
+El predicado nos sirve para representar cosas que suceden en el mundo real una regla que nos permiten deducir los hechos que suceden 
+
+Conceptos clave: 
+
+Logica : son los hechos y reglas para representar el conocimiento 
+Control: deduccion logica para dar respuestas
+Reglas: inferencia logica que deduce nuevo conocimiento 
+Hecho: Clausula o Proposicion cierta o falsa
+Consulta: Se especifica el problema 
+
+Regla 
+"Todos los seres humanos mueren"
+Hecho
+"Jose es un ser humano"
+Consulta
+"Jose va a morir?"
+Respuesta
+"SI"
+
+Caracteristicas relevantes 
+Vision Logica
+Recursion 
+Unificacion de Terminos
+Mecanismos de inferencia automaticos 
+
+Campos en los que se aplica PL
+Reconocimiento de lenguaje
+Demostracion de Teoremas 
+Inteligencia Artificial 
+Sistemas de informacion 
+Sistemas Expertos 
+
+21) Cómo resolver problemas con el paradigma funcional en POO
+
+22) Cómo resolver problemas con el paradigma Logica en POO
+
+23) El paradigma web en programación
+Se deben entender los dos lados del paradigma 
+
+Servidor : Bases de datos, administracion de usuarios, manejo de contenidos, administracion de recursos
+
+Cliente: La parte grafica, el despliegue de la info y accesos 
+
+24) Tecnologías en el paradigma web
+
+CLIENTE:
+Todo sitio web siempre tiene una parte HTML, Los navegadores leen HTML
+CSS: Se lo utiliza para estilizar una pagina web
+FLASH: Se utilizo para crear animaciones pero quedo obsoleto porque era demasiado pesado y la carga de la web se volvia muy lenta.
+JAVASCRIPT: La diferencia con el resto es que este si es un lenguaje de programacion 
+
+SERVIDOR:
+Se utilizan tecnologias como PHP, JAVA, RUBY, PYTHON, .NET, etc. 
+FRAMEWORKS: 
+
+Bases de datos 
+MySql:
+Oracle:
+NoSql: 
+
+25)Lenguajes front end y back end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
