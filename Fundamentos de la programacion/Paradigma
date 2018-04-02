@@ -38,3 +38,30 @@ Son mucho mas Rapido
 Lenguajes ( Python,  Ruby, Javascrit, )
 
 Compilados: los compiladores involucran varios archivos, se realizan analisis semantico, sintactico y otras validaciones. Son mucho mas Lentos, lenguajes (C, C++, ObjectC, Pascal)
+
+7) Lenguaje de programación en Java
+Caracteristicas: es un lenguaje que es compilado e interpretado, cuenta con una maquina virtual (es un interprete). Se crea un programa en Java es decir se crea un archivo con extencion .java y le das compilar este genera un archivo que se llama BYTECODE para poder correr la aplicacion se necesita tener la JMV instalada que interpreta el archivo para que se ejecute la aplicacion.
+
+8) Lenguajes del lado del cliente y del lado del servidor
+Cliente: Cuando decimos que algo esta del lado del cliente hablamos del Navegador 
+Servidor: Peticiones, Corre las funciones de almacenamiento, procesamiento acceso etc, Lenguages del lado del servidor Java Php Pyton Ruby.
+la mayoria de los lenguajes de programacion son orientados a objetos 
+
+9)Paradigma de programación estructurado
+** Mas conocido 
+** Primeras habilidades de un desarrollador 
+** Primeros paradigmas de la era moderna 
+Se pensaba con un algoritmo y programaba como el programador entendia
+
+Caracteristicas: 
+** El codigo inicial esta arriba y el final esta abajo 
+** Comprension sencilla
+** Dividir en operaciones 
+** Modulos referenciales
+
+Secuencias dentro de la programacion 
+** Secuenciales : Son las que van en un orden 
+** Selectivas : Son las que arrojan un resultado Booleano ( VERDADERO O FALSO)
+** Repetitivas : Son tambien llamadas Iterativas, son las que se repiten dependiendo de una condicion.
+
+
