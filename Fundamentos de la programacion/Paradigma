@@ -77,5 +77,43 @@ Limitantes:
 **Estructura del proyecto 
 
 13) Paradigma orientado a objetos
+Sirve para resolver el 99% de los problemas en programacion 
+Todo es un objeto 
+En la programacion orientada a objetos debemos realizar una descripcion de un objeto antes de poder crearlo 
+Es la abstaccion de la realidad 
+
+14)Qué es una clase en programación orientada a objetos
+QUE ES UNA CLASE: Es la definicion de un objeto 
+antes de crear un objeto se necesita definir una clase
+
+Las clases tienen tres partes primordiales 
+Atributos: Son las caracteristicas. Por ejemplo: Edificio
+a) numero de pisos
+Metodos: Acciones que puede realizar un objeto.
+Contructor: es un metodo que se ejecuta cuando creas un objeto, siempre llevan el mismo nombre de la clase.
+
+15) Crear un objeto con programación orientada a objetos
+Que se necesita saber para crear un objeto 
+Se necesitan saber los parametros indicado y necesario para no crear un objeto diferente 
+Que pasa cuando creas un objeto? sencillo se le da vida en programacion el sistema operativo reserva la memoria que necesita para que el objeto pueda estar vivo.
+
+16)El concepto de herencia en programación
+Herencia: son las caracteristicas que se desprender de las clases padre por ejemplo cuando se crea un clasa A y una clase B y se podria decir que B es hija de A donde se copia todas las caracteristicas del padre 
+Herencia Simplie: cuando las caracteristicas se copian de un solo padre
+Herencia Multiple: cuando las caracteristicas provienen de distintas clases 
+
+Ventaja : Permite ahorra tiempo al tener clases ya definidas se aprovecha el codigo 
+
+Desventaja : Cuando se tienen muchas clases se empiezan a generar problemas para seguir la herencia 
+
+17) El polimorfismo en la programación orientada a objetos
+Polimorfismo: es que algo pueda adoptar multiples formas funcionando dependiendo de la situacion 
+Polimorfismo Dinamico 
+Polimorfismo Estatico 
+
+Ventaja : darle mas sentido y logica a lo que hacemos, se pareces mas a la realidad 
+
+18) Ventajas de la programación orientada a objetos
+Fortaleza: Reusabilidad, Jerarquias, Mantenimiento, se puede combinar con otros paradigmas 
 
 
