@@ -33,3 +33,8 @@ Imperativo: se escribe como se llega a la solucion (nivel inicial)
 Declarativa: Se brinda informacion al programa y se utiliza la LOGICA
 
 6) Lenguajes interpretados y compilados en programación
+Interpretados: son los que utilizan Interprete (Navegardor = html) este recibe el codigo y lo lee poco a poco (LINEA POR LINEA) y va ejecutando. No mensionan los errores (hoy por hoy suelen decir donde estan los errores)
+Son mucho mas Rapido 
+Lenguajes ( Python,  Ruby, Javascrit, )
+
+Compilados: los compiladores involucran varios archivos, se realizan analisis semantico, sintactico y otras validaciones. Son mucho mas Lentos, lenguajes (C, C++, ObjectC, Pascal)
